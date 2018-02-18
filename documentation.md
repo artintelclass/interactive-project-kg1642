@@ -6,7 +6,7 @@ I wanted to create music based on the movements of the user. After discussing wi
 
 After deciding to use Kinect I borrowed one from the IM lab and started playing around with it. For my working prototype, I focused on changing the pitch of the sound based on far the user is from the Kinect. As the user goes farther the pitch of the sound increases.I set up the wekinator project to output one continous output. It is better to use continous output because pitch is continous.  Click [THIS LINK](https://www.youtube.com/watch?v=RInJLYd5LOk&feature=youtu.be) to see the video of my working prototype.
 <p align="center">
-  <img src="https://github.com/artintelclass/interactive-project-kg1642/blob/master/WorkingInClass.jpg" width="500" alt ="Working Hard in Class"/>
+  <img src="https://github.com/artintelclass/interactive-project-kg1642/blob/master/WorkingInClass.jpg" width="500" alt ="Working Hard in Class" />
 </p>
 
 Couple of my friends tried the working prototype. Almost all of them suggested me to use more soothing sound, which was my intention after all. One of the friends also asked me to consider using devices other than Kinect as it has the reputation for crashing from time and again. However, it was dfficult for me to find another input device for distance measuring. 
@@ -27,5 +27,5 @@ Now, to make sure that the output make sensible sounds, I used MIDI which then c
 7. Now, move around and marvel at how you can produce music with your body movements. 
 
 <p align="center">
-  <img src="https://github.com/artintelclass/interactive-project-kg1642/blob/master/RequiredThings.jpg" width="500" alt ="All the things that need to run at the same time to produce the desired result."/>
+  <img src="https://github.com/artintelclass/interactive-project-kg1642/blob/master/RequiredThings.jpg" width="500" alt ="All the things that need to run at the same time to produce the desired result." />
 </p>
