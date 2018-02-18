@@ -1,6 +1,3 @@
-
-* [name_to_instead_of_introduction](README.md)
-* [xxx](xxx.md)
 ## Idea Proposal
 
 I wanted to create music based on the movements of the user. After discussing with Professor Sherwood in the class, I decided to use Kinect to monitor the movements of the user. 
