@@ -1,10 +1,11 @@
 ## Idea Proposal
 
-I wanted to create based on the movements of the user. After discussing with Professor Sherwood in the class, I decided to use Kinect to monitor the movements of the user. 
+I wanted to create music based on the movements of the user. After discussing with Professor Sherwood in the class, I decided to use Kinect to monitor the movements of the user. 
 
 ## Working Prototype
 
-After deciding to use Kinect I borrowed one from the IM lab and started playing around with it. For my working prototype, I focused on changing the pitch of the sound based on far the user is from the Kinect. As the user goes farther the pitch of the sound increases.I set up the wekinator project to output one continous output. It is better to use continous output as pitch is continous.  Click [THIS LINK](https://www.youtube.com/watch?v=RInJLYd5LOk&feature=youtu.be) see the video of my working prototype. Couple of my friends tried the working prototype. Almost all of them suggested me to use more soothign sound, which was my intention after all. One of the friends also asked me to consider using devices other than Kinect has the reputation for crashing from time and again. However, it was dfficult for me to find another input device for distance measuring. 
+After deciding to use Kinect I borrowed one from the IM lab and started playing around with it. For my working prototype, I focused on changing the pitch of the sound based on far the user is from the Kinect. As the user goes farther the pitch of the sound increases.I set up the wekinator project to output one continous output. It is better to use continous output because pitch is continous.  Click [THIS LINK](https://www.youtube.com/watch?v=RInJLYd5LOk&feature=youtu.be) to see the video of my working prototype. 
+Couple of my friends tried the working prototype. Almost all of them suggested me to use more soothing sound, which was my intention after all. One of the friends also asked me to consider using devices other than Kinect as it has the reputation for crashing from time and again. However, it was dfficult for me to find another input device for distance measuring. 
 
 ## Final Project
 For the final project, I wanted to utilize the 3 dimensional information provided by the Kinect rather than just measuring distance. I found that z value from the Kinect is related to the distance from the Kinect and x and y are related to left and right position from the Kinect. 
