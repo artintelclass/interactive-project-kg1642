@@ -25,3 +25,7 @@ Now, to make sure that the output make sensible sounds, I used MIDI which then c
 5. Download Sforzando and City-Piano-SFZ. 
 6. Run the ProcessingToMIDI_NoteOn_2ContinuousOutputs.pde which is under ProcessingToMIDI_NoteOn_2ContinuousOutputs file. 
 7. Now, move around and marvel at how you can produce music with your body movements. 
+
+<p align="center">
+  <img src="https://github.com/artintelclass/interactive-project-kg1642/blob/master/RequiredThings.jpg" width="500" alt ="All the things that need to run at the same time to produce the desired result."/>
+</p>
