@@ -5,6 +5,9 @@ I wanted to create music based on the movements of the user. After discussing wi
 ## Working Prototype
 
 After deciding to use Kinect I borrowed one from the IM lab and started playing around with it. For my working prototype, I focused on changing the pitch of the sound based on far the user is from the Kinect. As the user goes farther the pitch of the sound increases.I set up the wekinator project to output one continous output. It is better to use continous output because pitch is continous.  Click [THIS LINK](https://www.youtube.com/watch?v=RInJLYd5LOk&feature=youtu.be) to see the video of my working prototype.
+<p align="center">
+  <img src="https://github.com/artintelclass/interactive-project-kg1642/blob/master/WorkingInClass.jpg" width="350"/>
+</p>
 
 Couple of my friends tried the working prototype. Almost all of them suggested me to use more soothing sound, which was my intention after all. One of the friends also asked me to consider using devices other than Kinect as it has the reputation for crashing from time and again. However, it was dfficult for me to find another input device for distance measuring. 
 
