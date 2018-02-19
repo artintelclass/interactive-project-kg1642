@@ -15,7 +15,7 @@ PFont f, f2;
 float alpha = 255;
 int lastNote = 0;
 boolean isNotSnapToScale = true;
-int[] notesInOctave = new int[] {60, 62, 64, 67, 69, 71, 72, 74}; //Choose your notes here if snapping to note
+int[] notesInOctave = new int[] {60, 62, 64, 67, 69, 71, 72, 74};
 float velocity =60;
 float pitch = 60; 
 MidiBus myBus; 
